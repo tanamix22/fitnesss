@@ -1,4 +1,4 @@
-/*
+
 import React from 'react'
 import ReactDOM from 'react-dom'
 
@@ -30,16 +30,5 @@ const element = (
 const container = document.getElementById('root')
 
 
-ReactDOM.render(element, container)*/
-
-import React from 'react';
-import ReactDOM from 'react-dom'
-
-const element = <h1>Frenass</h1>
-const progrma = {
-  name: 'Frenass'
-  sitemaOperativo: 'Linux'
-  avatar: ''
-}
-const container = document.getElementById('root')
 ReactDOM.render(element, container)
+
